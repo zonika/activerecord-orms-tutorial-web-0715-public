@@ -1,8 +1,4 @@
----
-  language: ruby
-  tags: ORM, activerecord, migrations, tutorial
-  resources: 0
----
+
 
 # ORMs in General
 
